@@ -27,6 +27,6 @@ uv.lock
 .DS_Store
 Thumbs.db
 
-.chroma_db
-.chroma_bedrock
+./chroma_db
+./chroma_bedrock
 .upasana_cv.pdf
