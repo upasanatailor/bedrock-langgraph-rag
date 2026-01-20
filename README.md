@@ -1,3 +1,5 @@
+## Project
+
 # 🚀 Agentic RAG: Multi-Format Document Intelligence
 
 An enterprise-grade **Retrieval-Augmented Generation (RAG)** system designed to analyze **PDF**, **Markdown**, and **JSON** documents. This project leverages **LangGraph** for stateful orchestration and **Amazon Bedrock** for high-reasoning inference, enabling a powerful and scalable **Chat-with-your-Data** experience.
